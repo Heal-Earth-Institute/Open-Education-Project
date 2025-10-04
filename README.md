@@ -1,6 +1,15 @@
 # Open-Education-Project
 An Open-Source Education System Integrating Science, Spirituality, and Creative Problem Solving 
 
+Heal Earth’s curriculum integrates:
+
+- Science and critical thinking to prepare students for a data-driven future.
+- Spirituality and values to cultivate humility, responsibility, and ethical leadership.
+- Creativity and the arts to foster innovation and imagination.
+- Environmental awareness and indigenous wisdom to anchor students in stewardship of the earth.
+- Practical life skills like financial literacy, cooking, teamwork, and conflict resolution.
+- AI-empowered personalized learning to adapt to each child’s strengths and needs.
+
 ## Core Principles
 
 #### Mental Fitness
