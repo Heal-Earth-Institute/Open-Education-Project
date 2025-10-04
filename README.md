@@ -12,6 +12,8 @@ Heal Earth’s curriculum integrates:
 
 ## Core Principles
 
+This open-source framework allows educators, parents, and communities worldwide to adapt, contribute, and continuously improve the curriculum. The operational model mirrors a technology company, employing agile design thinking to rapidly iterate and refine content. A licensing system similar to open-source software companies ensures financial sustainability while keeping the core curriculum freely accessible.
+
 #### Mental Fitness
 - **Emotional Regulation:** Manage and express emotions healthily.  
 - **Healthy Relationships:** Build supportive, positive connections with others.  
