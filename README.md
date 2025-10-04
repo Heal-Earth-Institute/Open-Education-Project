@@ -1,6 +1,8 @@
 # Open-Education-Project
 An Open-Source Education System Integrating Science, Spirituality, and Creative Problem Solving 
 
+This open-source framework allows educators, parents, and communities worldwide to adapt, contribute, and continuously improve the curriculum. The operational model mirrors that of a technology company, employing agile design thinking to rapidly iterate and refine content.
+
 Heal Earth’s curriculum integrates:
 
 - Science and critical thinking to prepare students for a data-driven future.
@@ -11,8 +13,6 @@ Heal Earth’s curriculum integrates:
 - AI-empowered personalized learning to adapt to each child’s strengths and needs.
 
 ## Core Principles
-
-This open-source framework allows educators, parents, and communities worldwide to adapt, contribute, and continuously improve the curriculum. The operational model mirrors a technology company, employing agile design thinking to rapidly iterate and refine content. A licensing system similar to open-source software companies ensures financial sustainability while keeping the core curriculum freely accessible.
 
 #### Mental Fitness
 - **Emotional Regulation:** Manage and express emotions healthily.  
