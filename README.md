@@ -12,6 +12,9 @@ Heal Earth’s curriculum integrates:
 - Practical life skills like financial literacy, cooking, teamwork, and conflict resolution.
 - AI-empowered personalized learning to adapt to each child’s strengths and needs.
 
+## Power of Open Curriculum
+Rethinking education through open-source and Agile principles transforms learning into a dynamic, collaborative, and adaptive process. By leveraging open-source methodologies, curricula become transparent, shareable, and continuously improvable, allowing educators worldwide to contribute resources, best practices, and innovations. Integrating Agile principles—such as iterative development, rapid feedback, and flexibility—enables schools to respond to students’ evolving needs, emphasize hands-on problem solving, and cultivate critical thinking. This approach shifts education from static content delivery to a living, evolving system that empowers students to become active participants in their learning, fosters creativity, and prepares them for complex, real-world challenges.
+
 ## Core Principles
 
 #### Mental Fitness
